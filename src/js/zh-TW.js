@@ -16,6 +16,8 @@ const content_zhTW = {
     "carousel-title4": "2024 友達光電A+種子暑期實習計畫",
     "carousel-title5": "2024 友達光電A+種子暑期實習計畫",
     "carousel-title6": "2024 友達光電A+種子暑期實習計畫",
+    "carousel-title7": "2025 國立陽明交通大學 碩士班 撥穗典禮",
+    "carousel-title8": "2025 國立陽明交通大學 碩士班 撥穗典禮",
     "card-name": "張棨翔",
     "card-school": "國立陽明交通大學",
     "card-department": "資訊管理研究所",

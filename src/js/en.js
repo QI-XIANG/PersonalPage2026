@@ -16,6 +16,8 @@ const content_EN = {
     "carousel-title4": "2024 AUO A+ Summer Intern Plan",
     "carousel-title5": "2024 AUO A+ Summer Intern Plan",
     "carousel-title6": "2024 AUO A+ Summer Intern Plan",
+    "carousel-title7": "2025 NYCU Master's Degree Conferral Ceremony",
+    "carousel-title8": "2025 NYCU Master's Degree Conferral Ceremony",
     "card-name": "QI-XIANG, ZHANG",
     "card-school": "National Yang-Ming Chiao Tung University",
     "card-department": "Institute of Information Management",
