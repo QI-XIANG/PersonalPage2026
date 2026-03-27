@@ -40,6 +40,7 @@ const content_EN = {
     "experience5": "NCU MIS Carnival, Curation Group Member",
     "experience6": "NYCU IIM DS Lab, Member",
     "experience7": "AUO A+ Summer Intern Plan,<br/>Intern of Advanced Manufacturing Division II",
+    "experience8": "VIS Engineer (EC Flow System)",
 
     "skills_languages_title": "Skills & Languages",
     "skills_languages_chinese": "Chinese",
