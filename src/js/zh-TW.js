@@ -19,8 +19,8 @@ const content_zhTW = {
     "carousel-title7": "2025 國立陽明交通大學 碩士班 撥穗典禮",
     "carousel-title8": "2025 國立陽明交通大學 碩士班 撥穗典禮",
     "card-name": "張棨翔",
-    "card-school": "國立陽明交通大學",
-    "card-department": "資訊管理研究所",
+    "card-school": "世界先進積體電路股份有限公司",
+    "card-department": "電子商務部-流程系統管理課, 工程師",
     "card-location": "新竹, 臺灣",
     
     "about_title": "關於",
@@ -40,7 +40,7 @@ const content_zhTW = {
     "experience5": "國立中央大學 資管嘉年華 策展組",
     "experience6": "國立陽明交通大學 資訊管理研究所<br>分散式系統實驗室(DS Lab), 成員",
     "experience7": "友達光電A+種子暑期實習計畫<br/>先進製造二課, 實習生",
-    "experience8": "VIS Engineer (EC Flow System)",
+    "experience8": "世界先進積體電路股份有限公司<br/>電子商務部-流程系統管理課, 工程師",
 
     "skills_languages_title": "技能 & 語言",
     "skills_languages_chinese": "中文",

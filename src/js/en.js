@@ -19,8 +19,8 @@ const content_EN = {
     "carousel-title7": "2025 NYCU Master's Degree Conferral Ceremony",
     "carousel-title8": "2025 NYCU Master's Degree Conferral Ceremony",
     "card-name": "QI-XIANG, ZHANG",
-    "card-school": "National Yang-Ming Chiao Tung University",
-    "card-department": "Institute of Information Management",
+    "card-school": "Vanguard International Semiconductor Corporation",
+    "card-department": "EC Flow System Management, Engineer",
     "card-location": "Hsinchu, Taiwan",
 
     "about_title": "About",
@@ -40,7 +40,7 @@ const content_EN = {
     "experience5": "NCU MIS Carnival, Curation Group Member",
     "experience6": "NYCU IIM DS Lab, Member",
     "experience7": "AUO A+ Summer Intern Plan,<br/>Intern of Advanced Manufacturing Division II",
-    "experience8": "VIS Engineer (EC Flow System)",
+    "experience8": "VIS Engineer (EC Flow System Management)",
 
     "skills_languages_title": "Skills & Languages",
     "skills_languages_chinese": "Chinese",
