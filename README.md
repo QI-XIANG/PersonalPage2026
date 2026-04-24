@@ -1,8 +1,8 @@
 # PersonalPage2023
 
-網址: https://qi-xiang.github.io/PersonalPage2023/
+網址: https://qi-xiang.github.io/PersonalPage2026/
 
-此為2023年重新設計後的個人網頁，原個人網頁將在不久之後停用!
+此為2023年後重新設計後的個人網頁，原個人網頁已經停用!
 
 本次重新設計有幾大特點 : 
 * 將原先網頁錯綜複雜的CSS選擇器予以簡化，非必要不添加
