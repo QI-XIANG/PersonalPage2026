@@ -18,6 +18,8 @@ const content_EN = {
     "carousel-title6": "2024 AUO A+ Summer Intern Plan",
     "carousel-title7": "2025 NYCU Master's Degree Conferral Ceremony",
     "carousel-title8": "2025 NYCU Master's Degree Conferral Ceremony",
+    "carousel-title9": "2026 VIS EC dept. Welcome and Farewell Party",
+    "carousel-title10": "2026 VIS Retirement for Department Leader",
     "card-name": "QI-XIANG, ZHANG",
     "card-school": "Vanguard International Semiconductor Corporation",
     "card-department": "EC Flow System Management, Engineer",
@@ -40,7 +42,7 @@ const content_EN = {
     "experience5": "NCU MIS Carnival, Curation Group Member",
     "experience6": "NYCU IIM DS Lab, Member",
     "experience7": "AUO A+ Summer Intern Plan,<br/>Intern of Advanced Manufacturing Division II",
-    "experience8": "VIS Engineer (EC Flow System Management)",
+    "experience8": "Vanguard International Semiconductor Corporation<br/>EC Flow System Management, Engineer",
 
     "skills_languages_title": "Skills & Languages",
     "skills_languages_chinese": "Chinese",
@@ -49,6 +51,7 @@ const content_EN = {
     "skills_languages_taiwanese": "Taiwanese",
 
     "achievements_title": "Achievements",
+    "paper_achievement1": "Chuang, Y. T. & Zhang, Q. X. Adaptive Aggregation and Robust Client Selection</br>against Poisoning and Backdoor Attacks in Federated Learning,</br> Engineering Applications of Artificial Intelligence, accepted. (SCIE)",
     "achievement1": "The 14th ITHELP Ironman Contest 2022<br>《The Journey of Django Starter》",
     "achievement2": "The 13th ITHELP Ironman Contest 2021<br>《JS30 Learning Diary》",
     "achievement3": "e-Note: 《Fundmental of Git Application》<br>(Written in Chinese)",

@@ -18,6 +18,8 @@ const content_zhTW = {
     "carousel-title6": "2024 友達光電A+種子暑期實習計畫",
     "carousel-title7": "2025 國立陽明交通大學 碩士班 撥穗典禮",
     "carousel-title8": "2025 國立陽明交通大學 碩士班 撥穗典禮",
+    "carousel-title9": "2026 VIS 電子商務部部迎新送舊聚餐",
+    "carousel-title10": "2026 VIS 流程系統管理課主管退休聚餐",
     "card-name": "張棨翔",
     "card-school": "世界先進積體電路股份有限公司",
     "card-department": "電子商務部-流程系統管理課, 工程師",
@@ -49,6 +51,7 @@ const content_zhTW = {
     "skills_languages_taiwanese": "臺語",
 
     "achievements_title": "成就",
+    "paper_achievement1": "Chuang, Y. T. & Zhang, Q. X. Adaptive Aggregation and Robust Client Selection</br>against Poisoning and Backdoor Attacks in Federated Learning,</br> Engineering Applications of Artificial Intelligence, accepted. (SCIE)",
     "achievement1": "2022 iThome 鐵人賽<br>《Django初心者之旅》",
     "achievement2": "2021 iThome 鐵人賽<br>《JS30學習日記》",
     "achievement3": "電子筆記: 《初步掌握Git與Github應用》<br>(以中文編寫)",
